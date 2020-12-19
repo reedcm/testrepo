@@ -1,5 +1,3 @@
 # testrepo
 
-## Readme
-
-It's a markdown file in this repository.
+Hello, everyone! I love data science.
